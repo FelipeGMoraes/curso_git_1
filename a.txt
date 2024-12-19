@@ -1,0 +1,3 @@
+Arquivo de teste
+A
+para o curso git
